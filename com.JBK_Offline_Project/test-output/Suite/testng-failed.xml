@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="Test(failed)">
+    <groups>
+      <run>
+        <exclude name="sanity"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.basicPractice.iFrame_Task">
+        <methods>
+          <include name="test01"/>
+        </methods>
+      </class> <!-- com.basicPractice.iFrame_Task -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

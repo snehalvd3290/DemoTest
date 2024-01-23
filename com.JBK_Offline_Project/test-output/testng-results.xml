@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="109500" started-at="2023-08-09T07:36:48Z" finished-at="2023-08-09T07:38:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="109500" started-at="2023-08-09T07:36:48Z" finished-at="2023-08-09T07:38:37Z">
+      <class name="com.JbkOffline.DashboardTest">
+        <test-method status="PASS" signature="configueSetting()[pri:0, instance:com.JbkOffline.DashboardTest@9629756]" name="configueSetting" is-config="true" duration-ms="66319" started-at="2023-08-09T13:06:48Z" finished-at="2023-08-09T13:07:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configueSetting -->
+        <test-method status="PASS" signature="loginToDashboard()[pri:1, instance:com.JbkOffline.DashboardTest@9629756]" name="loginToDashboard" duration-ms="35927" started-at="2023-08-09T13:07:54Z" finished-at="2023-08-09T13:08:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToDashboard -->
+        <test-method status="PASS" signature="seleniumCourse()[pri:2, instance:com.JbkOffline.DashboardTest@9629756]" name="seleniumCourse" duration-ms="6521" started-at="2023-08-09T13:08:30Z" finished-at="2023-08-09T13:08:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seleniumCourse -->
+        <test-method status="PASS" signature="JavaJ2EECourse()[pri:3, instance:com.JbkOffline.DashboardTest@9629756]" name="JavaJ2EECourse" duration-ms="367" started-at="2023-08-09T13:08:37Z" finished-at="2023-08-09T13:08:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JavaJ2EECourse -->
+        <test-method status="PASS" signature="PythonCourse()[pri:4, instance:com.JbkOffline.DashboardTest@9629756]" name="PythonCourse" duration-ms="164" started-at="2023-08-09T13:08:37Z" finished-at="2023-08-09T13:08:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PythonCourse -->
+        <test-method status="PASS" signature="PhpCourse()[pri:5, instance:com.JbkOffline.DashboardTest@9629756]" name="PhpCourse" duration-ms="143" started-at="2023-08-09T13:08:37Z" finished-at="2023-08-09T13:08:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PhpCourse -->
+      </class> <!-- com.JbkOffline.DashboardTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
